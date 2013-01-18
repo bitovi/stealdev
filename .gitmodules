@@ -1,0 +1,6 @@
+[submodule "shared/steal"]
+	path = shared/steal
+	url = git://github.com/bitovi/steal
+[submodule "shared/can"]
+	path = shared/can
+	url = git://github.com/bitovi/canjs
